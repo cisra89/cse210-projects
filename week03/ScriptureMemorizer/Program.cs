@@ -4,7 +4,6 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Creativity:
         // I created a small library of scriptures instead of using only
         // one scripture. The program randomly chooses a scripture each
         // time it starts. I also made the program choose only words that
